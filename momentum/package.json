@@ -1,0 +1,12 @@
+{
+  "name": "momentum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clock.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
